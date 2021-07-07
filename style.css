@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV - Zoé Perrin- Votre prochaine Junior</title>
+    <meta name="description" ::content-"Je cherche activitement une alternance pour mon master"
+    <link rel="stylesheet" href=style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href=
+    <style>
+    </style>
+
+    <header>
+
+        a:hover{
+            color:#ac683f ;
+        }
+        a:visited{
+            color: #ab1d79 ;
+        }
+        img{
+            width: 250px;
+        }
+
+        h1 {
+            font-style: italic;
+            color: #ac683f ;
+            font-family:'Lora', serif;
+            text-align: center;
+            background-color: #efebe2;
+            padding: 5px;
+            font-size: 400%;
+        }
+        h2 {
+            font-style: normal
+        }
+        h2 {
+            color: #ab1d79;
+            text-align: justify;
+            font-family: 'Lora', serif;
+            font-style: italic;
+            background-color: #efebe2;
+            text-align: center;
+            padding: 5px;
+            font-size: 200%;
+        }
+
+        h3 {
+            color: #ac683f;
+        }
+         p em {
+            
+                background-color: #efebe2;
+                width: 150px;
+                font-style:italic;
+                margin-right: auto;
+                margin-left: auto;
+         }
+        
+         div container-basic{
+            background-color: #efebe2;
+            border-radius: 20px;
+            padding: 18px;
+            padding-left: 40px;
+            padding-bottom: 20px;
+            width: 50px;
+         }
